@@ -1,5 +1,8 @@
 # Garbage-classification-
 浙江大学研究生 人工智能小作业
+
+
+
 具体的详细解释可以参考 https://yyingbiu.github.io/2019/11/19/tu-xiang-shi-bie-zhi-la-ji-fen-lei/
 本学期上的一个课程的（人工智能）课程作业。做图片分类，可以说是计算机视觉中最简单的一个任务。
 
